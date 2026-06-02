@@ -1,3 +1,6 @@
+Name: Harleen Kaur
+Official Email: harleenbtece24@igdtuw.ac.in
+Introduction:
 Hi, my name is Harleen Kaur. I’m currently pursuing B.Tech in Electronics and Communication Engineering from IGDTUW, and I’m in my 2nd year.
 
 I’m primarily interested in software development, especially problem solving, data structures, and building practical applications. At the same time, coming from an ECE background, I also have a growing interest in embedded systems and how software interacts with hardware.
