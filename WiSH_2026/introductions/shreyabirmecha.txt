@@ -1,0 +1,4 @@
+name- shreya birmecha
+email- shreyabirmecha8@gmail.com
+introduction- I'm going to begin my 3rd year as an ECE student at NIT Durgapur. I enjoy working in backend systems,web applications with growing interest in embedded software!
+For me, WISH is a gateway to explore the world of embedded systems, learn from the experienced mentors at TI, and gain hands-on exposure that will help bridge the gap between academic learning and industry innovation.
