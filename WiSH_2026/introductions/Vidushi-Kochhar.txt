@@ -1,0 +1,13 @@
+Name - Vidushi Kochhar
+College - Netaji Subhas University of Technology, Delhi
+I'm a participant in WiSH 2026.
+I am passionate about embedded systems, electronics, and software development. 
+I enjoy exploring how hardware and software interact to build efficient and impactful solutions.
+My interests include microcontrollers, IoT, real-time systems, and problem-solving through technology.
+
+Through WiSH 2026, I hope to deepen my understanding of embedded engineering, gain hands-on experience with industry-relevant tools and technologies, 
+collaborate with fellow participants, and contribute to innovative projects that address real-world challenges.
+
+I am excited to learn, build, and grow as part of the WiSH community.
+
+
